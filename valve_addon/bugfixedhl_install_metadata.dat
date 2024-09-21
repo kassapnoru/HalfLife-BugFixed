@@ -1,0 +1,300 @@
+{
+    "files": {
+        "README_BugfixedHL.md": {
+            "hash_sha1": "61779914dda62bfe3725befe81fd296f17cb3e92",
+            "size": 5856,
+            "user_modifiable": false
+        },
+        "cl_dlls/client.dll": {
+            "hash_sha1": "b771a4533d8108f2498f8e74db6b723831c6b75c",
+            "size": 4502016,
+            "user_modifiable": false
+        },
+        "cl_dlls/client.pdb": {
+            "hash_sha1": "238d0e9e9cc2db3e06d734b7922dfc8b6c1350c9",
+            "size": 34713600,
+            "user_modifiable": false
+        },
+        "cl_dlls/client.so": {
+            "hash_sha1": "29baa3146ee24aba643e0b632d79e89bb5ff17f8",
+            "size": 48791312,
+            "user_modifiable": false
+        },
+        "commandmenu_default.txt": {
+            "hash_sha1": "20b18c1381e4dbe58c2d9ef560c0b70e539bf266",
+            "size": 1368,
+            "user_modifiable": false
+        },
+        "resource/GameMenu.res": {
+            "hash_sha1": "6c34aaa131a7d98498ba911fcf04a20952619206",
+            "size": 1769,
+            "user_modifiable": false
+        },
+        "sound/misc/talk_bhl_fallback.wav": {
+            "hash_sha1": "832cdcf70d15ad7c9fffae8a9d1bdd7bfc4aae14",
+            "size": 2077,
+            "user_modifiable": false
+        },
+        "sprites/ag_ctf.spr": {
+            "hash_sha1": "8d81d71d90d5c7399d1db7919db97049f58f1250",
+            "size": 7230,
+            "user_modifiable": false
+        },
+        "sprites/ag_ctf_score.spr": {
+            "hash_sha1": "17d1428642ba8365eb6c18cb53d4909f82918f4b",
+            "size": 1086,
+            "user_modifiable": false
+        },
+        "ui/gfx/circle_bg.tga": {
+            "hash_sha1": "6195d9b6f299b128233da6e4e651bb912c54903f",
+            "size": 4646,
+            "user_modifiable": false
+        },
+        "ui/gfx/circle_fg.tga": {
+            "hash_sha1": "b689e569a33135e8170946e7f37a40e43a8bc51d",
+            "size": 4646,
+            "user_modifiable": false
+        },
+        "ui/gfx/cross_bg.tga": {
+            "hash_sha1": "8015221fe268b718e99c05a7666226b3c20047eb",
+            "size": 27692,
+            "user_modifiable": false
+        },
+        "ui/gfx/default_avatar.tga": {
+            "hash_sha1": "3f2d42d845b7d826936b0197c21793482a12954b",
+            "size": 101612,
+            "user_modifiable": false
+        },
+        "ui/gfx/hud/speaker.tga": {
+            "hash_sha1": "ca8c6181102479af2c263f7f7c6d09f08d3b6dfd",
+            "size": 16934,
+            "user_modifiable": false
+        },
+        "ui/gfx/hud/speaker_self.tga": {
+            "hash_sha1": "3905fe2a9953a518edaa82fcf38db777f0a112c6",
+            "size": 66086,
+            "user_modifiable": false
+        },
+        "ui/gfx/muted_icon32.tga": {
+            "hash_sha1": "5b201045ff64aabc6d93e98bb308ac5390f9fd21",
+            "size": 4646,
+            "user_modifiable": false
+        },
+        "ui/gfx/vgui/800corner1.tga": {
+            "hash_sha1": "c640aa54a37f818b69a50ad4c0d1c112a79bd2f5",
+            "size": 300,
+            "user_modifiable": false
+        },
+        "ui/gfx/vgui/800corner2.tga": {
+            "hash_sha1": "84e838018b32a47c2915efd369f234d183cc276e",
+            "size": 300,
+            "user_modifiable": false
+        },
+        "ui/gfx/vgui/800corner3.tga": {
+            "hash_sha1": "f6da864a1bcc1e4f186fa4c99c5c1407d3576c0b",
+            "size": 300,
+            "user_modifiable": false
+        },
+        "ui/gfx/vgui/800corner4.tga": {
+            "hash_sha1": "77d41634344c56eb439f3c7b73021a0aa1600f4c",
+            "size": 300,
+            "user_modifiable": false
+        },
+        "ui/resource/Chat.res": {
+            "hash_sha1": "ce283b1cd937053fe696900e5685051ca211f6ac",
+            "size": 859,
+            "user_modifiable": false
+        },
+        "ui/resource/ChatScheme.res": {
+            "hash_sha1": "ee30f692a00d6d2ade46ddf75d1e1cc624d7bca2",
+            "size": 599,
+            "user_modifiable": true
+        },
+        "ui/resource/ChatSchemeBase.res": {
+            "hash_sha1": "d359d6041654be3d5b11a57c50d69a3325279933",
+            "size": 14302,
+            "user_modifiable": false
+        },
+        "ui/resource/ClientScheme.res": {
+            "hash_sha1": "bf975bbb2f43c0c76711501cf2fd37a7d5c720c4",
+            "size": 1090,
+            "user_modifiable": true
+        },
+        "ui/resource/ClientSchemeBase.res": {
+            "hash_sha1": "231d4d1793fc92b2d78eb30966c235878ae6628c",
+            "size": 17710,
+            "user_modifiable": false
+        },
+        "ui/resource/ClientSourceScheme.res": {
+            "hash_sha1": "793ddd4575d03dd061cc9b92f03574fac0a1d2d3",
+            "size": 17700,
+            "user_modifiable": false
+        },
+        "ui/resource/MOTD.res": {
+            "hash_sha1": "233ef5d932732fcfee0efa110080871d778035bf",
+            "size": 1617,
+            "user_modifiable": false
+        },
+        "ui/resource/ScorePanel.res": {
+            "hash_sha1": "cf65b14383fd0722c2cb7a2827c40adb20e2178d",
+            "size": 2367,
+            "user_modifiable": false
+        },
+        "ui/resource/SpectatorInfoPanel.res": {
+            "hash_sha1": "36519f2f4d7756944682d946b49c6da04f701981",
+            "size": 3131,
+            "user_modifiable": false
+        },
+        "ui/resource/TeamMenu.res": {
+            "hash_sha1": "1deaec53fc7b384b278f3406c5a3b8c0a313d1ca",
+            "size": 11661,
+            "user_modifiable": false
+        },
+        "ui/resource/ca-certificates.crt": {
+            "hash_sha1": "46e58d855724194486e6bfdb0f3671c4833f0d5a",
+            "size": 203606,
+            "user_modifiable": false
+        },
+        "ui/resource/language/bugfixedhl_english.txt": {
+            "hash_sha1": "5adc229066ef606c0f8f7f1c09dca6166a450855",
+            "size": 21022,
+            "user_modifiable": false
+        },
+        "ui/resource/language/bugfixedhl_russian.txt": {
+            "hash_sha1": "6bc9bb66fa149a457ea7f88df87a3fc599f68f14",
+            "size": 21826,
+            "user_modifiable": false
+        },
+        "ui/resource/language/chat_english.txt": {
+            "hash_sha1": "daccc6880234160656d0b60c86d891d58e5a8f2d",
+            "size": 728,
+            "user_modifiable": false
+        },
+        "ui/resource/language/chat_french.txt": {
+            "hash_sha1": "45c7d2f1d6ef304c04ffecc522fee2b2d54484d1",
+            "size": 2038,
+            "user_modifiable": false
+        },
+        "ui/resource/language/chat_german.txt": {
+            "hash_sha1": "e23f125052fe771a6f30113b6dcb2989f49eef09",
+            "size": 1564,
+            "user_modifiable": false
+        },
+        "ui/resource/language/chat_italian.txt": {
+            "hash_sha1": "9f65a6f660682a11043e675de7d6185243408646",
+            "size": 2052,
+            "user_modifiable": false
+        },
+        "ui/resource/language/chat_korean.txt": {
+            "hash_sha1": "eccf775215596a9f97f9603b601e9b2a7a87a57d",
+            "size": 1834,
+            "user_modifiable": false
+        },
+        "ui/resource/language/chat_russian.txt": {
+            "hash_sha1": "4b7453c9a95200c72dade517532716cf825c2b23",
+            "size": 2046,
+            "user_modifiable": false
+        },
+        "ui/resource/language/chat_schinese.txt": {
+            "hash_sha1": "78aaad2231213dd1f879290ebfd9662ec9c0908a",
+            "size": 1824,
+            "user_modifiable": false
+        },
+        "ui/resource/language/chat_spanish.txt": {
+            "hash_sha1": "5d054f59834aced001472774106561521cfbc490",
+            "size": 1542,
+            "user_modifiable": false
+        },
+        "ui/resource/language/chat_tchinese.txt": {
+            "hash_sha1": "af31376a86cb5102495ccb97a0f5e200763b273c",
+            "size": 1364,
+            "user_modifiable": false
+        },
+        "ui/resource/open_source_software.txt": {
+            "hash_sha1": "4da7957b2f427278dc9a7ce31ad19045682a14f6",
+            "size": 60491,
+            "user_modifiable": false
+        },
+        "ui/resource/options/AboutSubOptions.res": {
+            "hash_sha1": "89542e667d01b24afbcfb8620df79c58e6a6eb54",
+            "size": 7517,
+            "user_modifiable": false
+        },
+        "ui/resource/options/ChatSubOptions.res": {
+            "hash_sha1": "cd7ca3e6ddb418568486a48f7cae69b3ee165157",
+            "size": 5478,
+            "user_modifiable": false
+        },
+        "ui/resource/options/ColorPicker.res": {
+            "hash_sha1": "a919f9848f1589f32c07916eb837d7b6856e0ae0",
+            "size": 2538,
+            "user_modifiable": false
+        },
+        "ui/resource/options/CrosshairSubOptions.res": {
+            "hash_sha1": "04eac1c67e2d834a55549d40f9bd5e76e1020cbd",
+            "size": 5547,
+            "user_modifiable": false
+        },
+        "ui/resource/options/GeneralSubOptions.res": {
+            "hash_sha1": "c5df727773b0c17e2126c9723a37b1f963608377",
+            "size": 12075,
+            "user_modifiable": false
+        },
+        "ui/resource/options/HudSubOptions.res": {
+            "hash_sha1": "76f5fe4a158e204074ab36c79e5a83f936e221bb",
+            "size": 10683,
+            "user_modifiable": false
+        },
+        "ui/resource/options/HudSubOptionsColors.res": {
+            "hash_sha1": "3f906974acafcbb8816147d8507c072557810ed6",
+            "size": 4530,
+            "user_modifiable": false
+        },
+        "ui/resource/options/ModelSubOptions.res": {
+            "hash_sha1": "4c1cdae89977a86883940e61f34e642b630d6b1b",
+            "size": 10226,
+            "user_modifiable": false
+        },
+        "ui/resource/options/ScoreboardSubOptions.res": {
+            "hash_sha1": "0e63a3fe89a93d8e4f863b16e823158a260a3e5f",
+            "size": 7416,
+            "user_modifiable": false
+        },
+        "ui/resource/updater/UpdateDownloadStatusDialog.res": {
+            "hash_sha1": "e97f28e979579ddf4c53003b31aa43a46a427898",
+            "size": 8466,
+            "user_modifiable": false
+        },
+        "ui/resource/updater/UpdateFileProgressDialog.res": {
+            "hash_sha1": "14f63f688eea393c42b9940bf3ab22c42dddfa66",
+            "size": 9037,
+            "user_modifiable": false
+        },
+        "ui/resource/updater/UpdateFileReplaceDialog.res": {
+            "hash_sha1": "977931e0bdbb4eb6dc25481e5eb5f8a0376fc721",
+            "size": 11690,
+            "user_modifiable": false
+        },
+        "ui/resource/updater/UpdateNotificationDialog.res": {
+            "hash_sha1": "9619724be3cc743c18b983c2c5ceb5cdf345b1c0",
+            "size": 12033,
+            "user_modifiable": false
+        },
+        "ui/scripts/HudAnimations.txt": {
+            "hash_sha1": "4ffd90330555c868eb83d7ff82d4337470aac73e",
+            "size": 1209,
+            "user_modifiable": false
+        },
+        "ui/scripts/HudLayout.res": {
+            "hash_sha1": "f78caa437d56854a547d8e76657c9c68943669e5",
+            "size": 520,
+            "user_modifiable": true
+        },
+        "ui/scripts/HudLayoutBase.res": {
+            "hash_sha1": "9906773a9b980f506b8b4a71fe48c95f07430029",
+            "size": 2418,
+            "user_modifiable": false
+        }
+    },
+    "version": "1.9.1"
+}
